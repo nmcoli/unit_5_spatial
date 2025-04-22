@@ -48,6 +48,3 @@ crit_hab = rbind(USA_crit_hab_sf, CAN_crit_hab_sf)
 head(crit_hab)
 
 ## go back and find capitalization error ##
-
-
-  
